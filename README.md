@@ -18,4 +18,4 @@ Here is an illustration of my pipeline: data -> machine learning -> optimization
 
 **Acknowledgements.** Big thanks to [this repo](https://github.com/ZWMiller) for providing the code for the genetic algorithm and making it accessible.
 
-**NOTE.** The original presentation contains a short video demo, which is unavailable in the odf format.
+**NOTE.** The original presentation contains a short video demo, which is unavailable in the pdf format.
