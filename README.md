@@ -16,6 +16,6 @@ Here is an illustration of my pipeline: data -> machine learning -> optimization
 
 **Results.** The XGBoost model had an error of 4.8 minutes in estimating a single trip's duration for a motor vehicle. While this may seem acceptable for one trip, the error may get bigger the more locations are visited. The genetic algorithm itself is fairly straightforward, but it must be noted that every genetic algorithm gives an optimal approximation, but not the single best solution there is.
 
-**Acknowledgements.** Big thanks to [this repo](https://github.com/ZWMiller) for providing the code for the genetic algorithm and making it accessible.
+**Acknowledgements.** Big thanks to [this notebook](https://github.com/ZWMiller/PythonProjects/blob/master/genetic_algorithms/evolutionary_algorithm_traveling_salesman.ipynb) for providing the code for the genetic algorithm and making it accessible.
 
 **NOTE.** The original presentation contains a short video demo, which is unavailable in the pdf format.
